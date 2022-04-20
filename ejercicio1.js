@@ -6,5 +6,7 @@ function CantidadPago() {
             cantidad = prompt('Cantidad de ese articulo');
             total = parseInt(precio) * parseInt(cantidad);
             console.log('Debe pagar: ' + total)
+    
+    //edicion primer repositorio
 
 }
